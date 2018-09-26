@@ -3,11 +3,11 @@ import { Link, NavLink } from 'react-router-dom'
 
 const Navbar = () => {
     return (
-        <nav class="navbar navbar-inverse">
-            <div class="container-fluid">
-                <ul class="nav navbar-nav">
+        <nav className="navbar navbar-inverse">
+            <div className="container-fluid">
+                <ul className="nav navbar-nav">
                     <li ><Link to="/">Home</Link></li>
-                    <li><Link to="/battle">Battle</Link></li>
+                    <li><NavLink to="/battle">Battle</NavLink></li>
                     
                 </ul>                    
             </div>

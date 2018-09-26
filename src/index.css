@@ -8,3 +8,47 @@ body {
 .home {
   margin-top: 2%;
 }
+
+.forBtn {
+  background:#222;
+  color: #f8f8f8;
+  margin:3%;
+  margin-left: 25%;
+  padding: 2%;
+  width: 50%;
+  font-size: medium;
+}
+
+.forBtn:hover{
+  color: rgb(255, 255, 255)
+}
+
+.battleBtn{
+  background:#222;
+  color: #f8f8f8;
+  width: 20%;
+  font-size: large;
+}
+
+.battleBtn:hover{
+  color: rgb(255, 255, 255)
+}
+
+.icon{
+  width: 90%;
+  margin-bottom: 10%
+}
+
+.info{
+  font-size: medium
+}
+
+.battleBtn{
+  background:#222;
+  color: #f8f8f8;
+  margin:3%;
+  margin-left: 40%;
+  padding: 2%;
+  width: 20%;
+  font-size: x-large;
+}
