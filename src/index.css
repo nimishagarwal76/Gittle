@@ -31,7 +31,7 @@ body {
 }
 
 .battleBtn:hover{
-  color: rgb(255, 255, 255)
+  color: rgb(255, 255, 255);
 }
 
 .icon{
@@ -43,7 +43,7 @@ body {
   font-size: medium
 }
 
-.battleBtn{
+.battleButton{
   background:#222;
   color: #f8f8f8;
   margin:3%;
@@ -51,4 +51,12 @@ body {
   padding: 2%;
   width: 20%;
   font-size: x-large;
+}
+
+.battleButton:hover{
+  color: rgb(255, 255, 255);
+}
+
+.reset{
+  margin-left: 40%;
 }
